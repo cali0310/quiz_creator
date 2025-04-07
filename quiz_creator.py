@@ -14,3 +14,8 @@ while True:
     question = str(input("Enter a question (type 'x' to finish): "))
     if question.lower() == "x":
         break
+
+    a = input("Enter choice a: ")
+    b = input("Enter choice b: ")
+    c = input("Enter choice c: ")
+    d = input("Enter choice d: ")
