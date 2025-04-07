@@ -7,3 +7,5 @@
 # loop until the user chooses to exit 
 # save all questions in a text file
 
+score = 0
+quiz_list = []
