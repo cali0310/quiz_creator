@@ -9,3 +9,8 @@
 
 score = 0
 quiz_list = []
+
+while True:
+    question = str(input("Enter a question (type 'x' to finish): "))
+    if question.lower() == "x":
+        break
